@@ -1,7 +1,13 @@
 # Greetings 😎
 
-I'm Iain. I used to be a software engineer on the Desktop Team @canonical. I'm
-still a Debian Developer and an Ubuntu develoepr too.
+I'm Iain. I'm a software engineer @grafana. I'm on the Cloud Platform team,
+which provides resources for other engineering teams at the company to deploy
+their stuff into.
+
+I'm also a Debian Developer and an Ubuntu Core Developer.
+
+In a former life, for a very long time I was an engineer on the desktop team at
+Canonical, where we made Ubuntu desktop.
 
 🗣 Talk to me about:
 
@@ -11,9 +17,5 @@ still a Debian Developer and an Ubuntu develoepr too.
   * Debian packaging
   * The autopkgtest.ubuntu.com system and how it works
   * GNOME and desktop Linux in general
-
-I'll soon be starting @grafana. Then I'll fill this `README` in a bit more
-comprehensively. Mainly I just found out that it existed and wanted to write
-something here.
 
 🔔
