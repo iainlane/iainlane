@@ -17,5 +17,6 @@ Canonical, where we made Ubuntu desktop.
   * Debian packaging
   * The autopkgtest.ubuntu.com system and how it works
   * GNOME and desktop Linux in general
+  * Why daytime naps are great
 
 🔔
