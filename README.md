@@ -1,6 +1,6 @@
 # Greetings 😎
 
-I'm Iain. I'm a software engineer @grafana. I'm on the Cloud Platform team,
+I'm Iain. I'm a software engineer @grafana. I'm on the Platform team,
 which provides resources for other engineering teams at the company to deploy
 their stuff into.
 
